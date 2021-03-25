@@ -1,0 +1,2 @@
+# PKL
+Pickle Coin ($PKL)
